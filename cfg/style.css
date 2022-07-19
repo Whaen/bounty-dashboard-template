@@ -1,0 +1,14 @@
+div[data-testid='stHorizontalBlock'] > div {
+    background: #262735;
+    box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    padding: 40px 25px 20px;
+    height: 100%;
+} 
+div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
+    overflow-wrap: break-word;
+    white-space: break-spaces;
+    color: #15cab6;
+    font-size: 1.2rem;
+    font-weight: 700;
+ }

@@ -1,0 +1,30 @@
+blockchain-list:
+  # TERRA-LUNA: 
+  #           - LUNC
+  THORCHAIN:  
+            - RUNE
+  SOLANA:     
+            - SOL
+  ETHEREUM:   
+            - ETH
+            - USDC
+  OSMOSIS:    
+            - OSMO
+  POLYGON:    
+            - MATIC
+            - USDC
+  NEAR-CHAIN: 
+            - NEAR
+API:
+  # LUNC: TERRA-LUNA
+  RUNE: THORCHAIN
+  SOL:  SOLANA
+  ETH:  ETHEREUM
+  OSMO: OSMOSIS
+  MATIC: MATIC-NETWORK
+  USDC:  USD-COIN
+  NEAR:  NEAR
+year:
+  - 2021
+  - 2022
+  # - 2023
