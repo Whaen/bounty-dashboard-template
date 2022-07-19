@@ -16,4 +16,4 @@
 7. Run Streamlit Webpage, `streamlit run app.py`
 8. If something wrong on the charts, please find `whaen`, he will guide you on how to edit the charts config.
 
-> NOTE: dataframe is save in `data` folder, it contains the sum, take a look
+> NOTE: dataframe is save as csv file in `data` folder, it contains the sum, take a look
